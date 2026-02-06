@@ -1,25 +1,6 @@
-# Python
+#Phyton
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-*.so
-*.egg
-*.egg-info/
-dist/
-build/
+.*pyc
 
-# IDEs
-.vscode/
-.idea/
-*.swp
-
-
-# Sistema
+#Sistema
 .DS_Store
-
-
-# Entornos virtuales
-venv/
-env/
